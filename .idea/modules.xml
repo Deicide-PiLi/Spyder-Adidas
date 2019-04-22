@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Car-Slope/.idea/Car-Slope.iml" filepath="$PROJECT_DIR$/../Car-Slope/.idea/Car-Slope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sypder-Adidas.iml" filepath="$PROJECT_DIR$/.idea/Sypder-Adidas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../py-scratch/.idea/py-scratch.iml" filepath="$PROJECT_DIR$/../py-scratch/.idea/py-scratch.iml" />
+    </modules>
+  </component>
+</project>
